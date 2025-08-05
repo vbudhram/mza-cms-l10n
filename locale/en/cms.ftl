@@ -1,4 +1,4 @@
-# Generated from Strapi CMS on 2025-08-05T20:17:10.707Z
+# Generated from Strapi CMS on 2025-08-05T20:38:04.970Z
 # This file contains localized strings for the application
 
 # desktopSyncFirefoxCms
