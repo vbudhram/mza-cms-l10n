@@ -1,73 +1,5 @@
-# Generated from Strapi CMS on 2025-08-05T17:57:57.445Z
+# Generated from Strapi CMS on 2025-08-05T20:17:10.707Z
 # This file contains localized strings for the application
-
-# desktopSync
-
-desktopSync-shared-logoAltText-96e4284e = "Firefox logo"
-
-desktopSync-shared-emailFromName-763f7f1a = "Firefox"
-
-desktopSync-shared-emailLogoAltText-96e4284e = "Firefox logo"
-
-desktopSync-EmailFirstPage-headline-d4399885 = "Continue to your Mozilla account"
-
-desktopSync-EmailFirstPage-description-aac3076a = "Sync your passwords, tabs, and bookmarks everywhere you use Firefox."
-
-desktopSync-EmailFirstPage-primaryButtonText-e0c4332e = "Get Started"
-
-desktopSync-SignupSetPasswordPage-headline-7e0aff4a = "Set your password"
-
-desktopSync-SignupSetPasswordPage-description-9383a42f = "Create a strong and secure password to encrypt your data."
-
-desktopSync-SignupSetPasswordPage-primaryButtonText-af214972 = "Set Password"
-
-desktopSync-SignupConfirmCodePage-headline-d076f12b = "Enter confirmation code"
-
-desktopSync-SignupConfirmCodePage-description-1e791281 = "One last step, verify your account email address."
-
-desktopSync-SignupConfirmCodePage-primaryButtonText-6b862186 = "Confirm Email"
-
-desktopSync-SignupConfirmedSyncPage-headline-068241d3 = "You are syncing Firefox"
-
-desktopSync-SignupConfirmedSyncPage-description-926ccc75 = "Your passwords, addresses, bookmarks, history, and more can sync everywhere you use Firefox..."
-
-desktopSync-SignupConfirmedSyncPage-primaryButtonText-49477717 = "The next thing"
-
-desktopSync-SigninPage-headline-f2f1d554 = "Enter your password"
-
-desktopSync-SigninPage-description-673ee3c7 = "to log into Firefox and start syncing."
-
-desktopSync-SigninPage-primaryButtonText-b6d4223e = "Sign in"
-
-desktopSync-SigninTokenCodePage-headline-d076f12b = "Enter confirmation code"
-
-desktopSync-SigninTokenCodePage-description-1e791281 = "One last step, verify your account email address."
-
-desktopSync-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = "Continue"
-
-desktopSync-SigninUnblockCodePage-headline-32aa265b = "Autorize this sign in"
-
-desktopSync-SigninUnblockCodePage-description-a7ba1d71 = "We want to make sure it is you. Verify your email addres."
-
-desktopSync-SigninUnblockCodePage-primaryButtonText-7f83df9c = "Authorize"
-
-desktopSync-NewDeviceLoginEmail-subject-a0a749e1 = "New sign-in to Firefox"
-
-desktopSync-NewDeviceLoginEmail-headline-a0a749e1 = "New sign-in to Firefox"
-
-desktopSync-NewDeviceLoginEmail-description-361824c1 = "You have signed into Firefox"
-
-desktopSync-VerifyLoginCodeEmail-subject-450ba359 = "Approve sign-in to Firefox"
-
-desktopSync-VerifyLoginCodeEmail-headline-fe389eef = "Enter the verification code in Firefox"
-
-desktopSync-VerifyLoginCodeEmail-description-fe389eef = "Enter the verification code in Firefox"
-
-desktopSync-VerifyShortCodeEmail-subject-ef1fb997 = "Confirm your account"
-
-desktopSync-VerifyShortCodeEmail-headline-e2bbf688 = "Confirm your email address to begin syncing your browser."
-
-desktopSync-VerifyShortCodeEmail-description-e2bbf688 = "Confirm your email address to begin syncing your browser."
 
 # desktopSyncFirefoxCms
 
@@ -192,3 +124,71 @@ OneTwoThreeDone-VerifyShortCodeEmail-subject-3a7ebe9b = "Confirmation code for 1
 OneTwoThreeDone-VerifyShortCodeEmail-headline-8f70adb2 = "Complete setup"
 
 OneTwoThreeDone-VerifyShortCodeEmail-description-e1c80a1a = "Confirm your account to begin using 123Done"
+
+# desktopSync
+
+desktopSync-shared-logoAltText-96e4284e = "Firefox logo"
+
+desktopSync-shared-emailFromName-763f7f1a = "Firefox"
+
+desktopSync-shared-emailLogoAltText-96e4284e = "Firefox logo"
+
+desktopSync-EmailFirstPage-headline-d4399885 = "Continue to your Mozilla account"
+
+desktopSync-EmailFirstPage-description-aac3076a = "Sync your passwords, tabs, and bookmarks everywhere you use Firefox."
+
+desktopSync-EmailFirstPage-primaryButtonText-44e2b9b7 = "Get Started Today!!!"
+
+desktopSync-SignupSetPasswordPage-headline-7e0aff4a = "Set your password"
+
+desktopSync-SignupSetPasswordPage-description-9383a42f = "Create a strong and secure password to encrypt your data."
+
+desktopSync-SignupSetPasswordPage-primaryButtonText-af214972 = "Set Password"
+
+desktopSync-SignupConfirmCodePage-headline-d076f12b = "Enter confirmation code"
+
+desktopSync-SignupConfirmCodePage-description-1e791281 = "One last step, verify your account email address."
+
+desktopSync-SignupConfirmCodePage-primaryButtonText-6b862186 = "Confirm Email"
+
+desktopSync-SignupConfirmedSyncPage-headline-068241d3 = "You are syncing Firefox"
+
+desktopSync-SignupConfirmedSyncPage-description-926ccc75 = "Your passwords, addresses, bookmarks, history, and more can sync everywhere you use Firefox..."
+
+desktopSync-SignupConfirmedSyncPage-primaryButtonText-49477717 = "The next thing"
+
+desktopSync-SigninPage-headline-f2f1d554 = "Enter your password"
+
+desktopSync-SigninPage-description-673ee3c7 = "to log into Firefox and start syncing."
+
+desktopSync-SigninPage-primaryButtonText-b6d4223e = "Sign in"
+
+desktopSync-SigninTokenCodePage-headline-d076f12b = "Enter confirmation code"
+
+desktopSync-SigninTokenCodePage-description-1e791281 = "One last step, verify your account email address."
+
+desktopSync-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = "Continue"
+
+desktopSync-SigninUnblockCodePage-headline-32aa265b = "Autorize this sign in"
+
+desktopSync-SigninUnblockCodePage-description-a7ba1d71 = "We want to make sure it is you. Verify your email addres."
+
+desktopSync-SigninUnblockCodePage-primaryButtonText-7f83df9c = "Authorize"
+
+desktopSync-NewDeviceLoginEmail-subject-a0a749e1 = "New sign-in to Firefox"
+
+desktopSync-NewDeviceLoginEmail-headline-a0a749e1 = "New sign-in to Firefox"
+
+desktopSync-NewDeviceLoginEmail-description-361824c1 = "You have signed into Firefox"
+
+desktopSync-VerifyLoginCodeEmail-subject-450ba359 = "Approve sign-in to Firefox"
+
+desktopSync-VerifyLoginCodeEmail-headline-fe389eef = "Enter the verification code in Firefox"
+
+desktopSync-VerifyLoginCodeEmail-description-fe389eef = "Enter the verification code in Firefox"
+
+desktopSync-VerifyShortCodeEmail-subject-ef1fb997 = "Confirm your account"
+
+desktopSync-VerifyShortCodeEmail-headline-e2bbf688 = "Confirm your email address to begin syncing your browser."
+
+desktopSync-VerifyShortCodeEmail-description-e2bbf688 = "Confirm your email address to begin syncing your browser."
