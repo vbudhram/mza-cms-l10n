@@ -1,0 +1,374 @@
+{
+  "desktopSync_shared_logoAltText": {
+    "message": "Firefox logo",
+    "description": "logo alt text for shared"
+  },
+  "desktopSync_shared_emailFromName": {
+    "message": "Firefox",
+    "description": "email from name for shared"
+  },
+  "desktopSync_shared_emailLogoAltText": {
+    "message": "Firefox logo",
+    "description": "email logo alt text for shared"
+  },
+  "desktopSync_EmailFirstPage_headline": {
+    "message": "Continue to your Mozilla account",
+    "description": "headline for email first page"
+  },
+  "desktopSync_EmailFirstPage_description": {
+    "message": "Sync your passwords, tabs, and bookmarks everywhere you use Firefox.",
+    "description": "description for email first page"
+  },
+  "desktopSync_EmailFirstPage_primaryButtonText": {
+    "message": "Get Started",
+    "description": "primary button text for email first page"
+  },
+  "desktopSync_SignupSetPasswordPage_headline": {
+    "message": "Set your password",
+    "description": "headline for signup set password page"
+  },
+  "desktopSync_SignupSetPasswordPage_description": {
+    "message": "Create a strong and secure password to encrypt your data.",
+    "description": "description for signup set password page"
+  },
+  "desktopSync_SignupSetPasswordPage_primaryButtonText": {
+    "message": "Set Password",
+    "description": "primary button text for signup set password page"
+  },
+  "desktopSync_SignupConfirmCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signup confirm code page"
+  },
+  "desktopSync_SignupConfirmCodePage_description": {
+    "message": "One last step, verify your account email address.",
+    "description": "description for signup confirm code page"
+  },
+  "desktopSync_SignupConfirmCodePage_primaryButtonText": {
+    "message": "Confirm Email",
+    "description": "primary button text for signup confirm code page"
+  },
+  "desktopSync_SignupConfirmedSyncPage_headline": {
+    "message": "You are syncing Firefox",
+    "description": "headline for signup confirmed sync page"
+  },
+  "desktopSync_SignupConfirmedSyncPage_description": {
+    "message": "Your passwords, addresses, bookmarks, history, and more can sync everywhere you use Firefox...",
+    "description": "description for signup confirmed sync page"
+  },
+  "desktopSync_SignupConfirmedSyncPage_primaryButtonText": {
+    "message": "The next thing",
+    "description": "primary button text for signup confirmed sync page"
+  },
+  "desktopSync_SigninPage_headline": {
+    "message": "Enter your password",
+    "description": "headline for signin page"
+  },
+  "desktopSync_SigninPage_description": {
+    "message": "to log into Firefox and start syncing.",
+    "description": "description for signin page"
+  },
+  "desktopSync_SigninPage_primaryButtonText": {
+    "message": "Sign in",
+    "description": "primary button text for signin page"
+  },
+  "desktopSync_SigninTokenCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signin token code page"
+  },
+  "desktopSync_SigninTokenCodePage_description": {
+    "message": "One last step, verify your account email address.",
+    "description": "description for signin token code page"
+  },
+  "desktopSync_SigninTokenCodePage_primaryButtonText": {
+    "message": "Continue",
+    "description": "primary button text for signin token code page"
+  },
+  "desktopSync_SigninUnblockCodePage_headline": {
+    "message": "Autorize this sign in",
+    "description": "headline for signin unblock code page"
+  },
+  "desktopSync_SigninUnblockCodePage_description": {
+    "message": "We want to make sure it is you. Verify your email addres.",
+    "description": "description for signin unblock code page"
+  },
+  "desktopSync_SigninUnblockCodePage_primaryButtonText": {
+    "message": "Authorize",
+    "description": "primary button text for signin unblock code page"
+  },
+  "desktopSync_NewDeviceLoginEmail_subject": {
+    "message": "New sign-in to Firefox",
+    "description": "subject for new device login email"
+  },
+  "desktopSync_NewDeviceLoginEmail_headline": {
+    "message": "New sign-in to Firefox",
+    "description": "headline for new device login email"
+  },
+  "desktopSync_NewDeviceLoginEmail_description": {
+    "message": "You have signed into Firefox",
+    "description": "description for new device login email"
+  },
+  "desktopSync_VerifyLoginCodeEmail_subject": {
+    "message": "Approve sign-in to Firefox",
+    "description": "subject for verify login code email"
+  },
+  "desktopSync_VerifyLoginCodeEmail_headline": {
+    "message": "Enter the verification code in Firefox",
+    "description": "headline for verify login code email"
+  },
+  "desktopSync_VerifyLoginCodeEmail_description": {
+    "message": "Enter the verification code in Firefox",
+    "description": "description for verify login code email"
+  },
+  "desktopSync_VerifyShortCodeEmail_subject": {
+    "message": "Confirm your account",
+    "description": "subject for verify short code email"
+  },
+  "desktopSync_VerifyShortCodeEmail_headline": {
+    "message": "Confirm your email address to begin syncing your browser.",
+    "description": "headline for verify short code email"
+  },
+  "desktopSync_VerifyShortCodeEmail_description": {
+    "message": "Confirm your email address to begin syncing your browser.",
+    "description": "description for verify short code email"
+  },
+  "desktopSyncFirefoxCms_shared_logoAltText": {
+    "message": "Firefox logo123",
+    "description": "logo alt text for shared"
+  },
+  "desktopSyncFirefoxCms_shared_emailFromName": {
+    "message": "Mozilla",
+    "description": "email from name for shared"
+  },
+  "desktopSyncFirefoxCms_shared_emailLogoAltText": {
+    "message": "Firefox logo",
+    "description": "email logo alt text for shared"
+  },
+  "desktopSyncFirefoxCms_EmailFirstPage_headline": {
+    "message": "Continue to your Mozilla account",
+    "description": "headline for email first page"
+  },
+  "desktopSyncFirefoxCms_EmailFirstPage_description": {
+    "message": "Sync your passwords, tabs, and bookmarks everywhere you use Firefox.",
+    "description": "description for email first page"
+  },
+  "desktopSyncFirefoxCms_EmailFirstPage_primaryButtonText": {
+    "message": "Sign up or sign in",
+    "description": "primary button text for email first page"
+  },
+  "desktopSyncFirefoxCms_SignupSetPasswordPage_headline": {
+    "message": "Create a password",
+    "description": "headline for signup set password page"
+  },
+  "desktopSyncFirefoxCms_SignupSetPasswordPage_description": {
+    "message": "Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.",
+    "description": "description for signup set password page"
+  },
+  "desktopSyncFirefoxCms_SignupSetPasswordPage_primaryButtonText": {
+    "message": "Create account",
+    "description": "primary button text for signup set password page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signup confirm code page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmCodePage_description": {
+    "message": "Just one quick step. Enter the code from your email to activate your Mozilla account.",
+    "description": "description for signup confirm code page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmCodePage_primaryButtonText": {
+    "message": "Start syncing",
+    "description": "primary button text for signup confirm code page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmedSyncPage_headline": {
+    "message": "Sync is turned on",
+    "description": "headline for signup confirmed sync page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmedSyncPage_description": {
+    "message": "Your passwords, payment methods, addresses, bookmarks, history, and more can sync everywhere you use Firefox.",
+    "description": "description for signup confirmed sync page"
+  },
+  "desktopSyncFirefoxCms_SignupConfirmedSyncPage_primaryButtonText": {
+    "message": "Add another device",
+    "description": "primary button text for signup confirmed sync page"
+  },
+  "desktopSyncFirefoxCms_SigninPage_headline": {
+    "message": "Enter your password",
+    "description": "headline for signin page"
+  },
+  "desktopSyncFirefoxCms_SigninPage_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin page"
+  },
+  "desktopSyncFirefoxCms_SigninPage_primaryButtonText": {
+    "message": "Sign in",
+    "description": "primary button text for signin page"
+  },
+  "desktopSyncFirefoxCms_SigninTokenCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signin token code page"
+  },
+  "desktopSyncFirefoxCms_SigninTokenCodePage_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin token code page"
+  },
+  "desktopSyncFirefoxCms_SigninTokenCodePage_primaryButtonText": {
+    "message": "Start syncing",
+    "description": "primary button text for signin token code page"
+  },
+  "desktopSyncFirefoxCms_SigninUnblockCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signin unblock code page"
+  },
+  "desktopSyncFirefoxCms_SigninUnblockCodePage_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin unblock code page"
+  },
+  "desktopSyncFirefoxCms_SigninUnblockCodePage_primaryButtonText": {
+    "message": "Continue",
+    "description": "primary button text for signin unblock code page"
+  },
+  "desktopSyncFirefoxCms_VerifyShortCodeEmail_subject": {
+    "message": "Confirm your account",
+    "description": "subject for verify short code email"
+  },
+  "desktopSyncFirefoxCms_VerifyShortCodeEmail_headline": {
+    "message": "Use the included code to confirm your Mozilla account.",
+    "description": "headline for verify short code email"
+  },
+  "desktopSyncFirefoxCms_VerifyShortCodeEmail_description": {
+    "message": "Confirm your account",
+    "description": "description for verify short code email"
+  },
+  "OneTwoThreeDone_shared_logoAltText": {
+    "message": "123Done logo",
+    "description": "logo alt text for shared"
+  },
+  "OneTwoThreeDone_shared_emailFromName": {
+    "message": "123Donee",
+    "description": "email from name for shared"
+  },
+  "OneTwoThreeDone_shared_emailLogoAltText": {
+    "message": "123Done logo",
+    "description": "email logo alt text for shared"
+  },
+  "OneTwoThreeDone_EmailFirstPage_headline": {
+    "message": "Make Space for What Matters",
+    "description": "headline for email first page"
+  },
+  "OneTwoThreeDone_EmailFirstPage_description": {
+    "message": "Start your clutter-free to-do list with 123Done. Sign up with your email to create a Mozilla account and get started today.",
+    "description": "description for email first page"
+  },
+  "OneTwoThreeDone_EmailFirstPage_primaryButtonText": {
+    "message": "Create My List",
+    "description": "primary button text for email first page"
+  },
+  "OneTwoThreeDone_SignupSetPasswordPage_headline": {
+    "message": "Create Your Password",
+    "description": "headline for signup set password page"
+  },
+  "OneTwoThreeDone_SignupSetPasswordPage_description": {
+    "message": "Keep your account private and secure. Set a password for your Mozilla account and get started with 123Done.",
+    "description": "description for signup set password page"
+  },
+  "OneTwoThreeDone_SignupSetPasswordPage_primaryButtonText": {
+    "message": "Continue",
+    "description": "primary button text for signup set password page"
+  },
+  "OneTwoThreeDone_SignupConfirmCodePage_headline": {
+    "message": "Almost There",
+    "description": "headline for signup confirm code page"
+  },
+  "OneTwoThreeDone_SignupConfirmCodePage_description": {
+    "message": "Just one quick step. Enter the code from your email to activate your Mozilla account and unlock 123Done.",
+    "description": "description for signup confirm code page"
+  },
+  "OneTwoThreeDone_SignupConfirmCodePage_primaryButtonText": {
+    "message": "Finish Setup",
+    "description": "primary button text for signup confirm code page"
+  },
+  "OneTwoThreeDone_SignupConfirmedSyncPage_headline": {
+    "message": "Sync confirmed",
+    "description": "headline for signup confirmed sync page"
+  },
+  "OneTwoThreeDone_SignupConfirmedSyncPage_description": {
+    "message": "Your account has been verified.",
+    "description": "description for signup confirmed sync page"
+  },
+  "OneTwoThreeDone_SignupConfirmedSyncPage_primaryButtonText": {
+    "message": "Add another device",
+    "description": "primary button text for signup confirmed sync page"
+  },
+  "OneTwoThreeDone_SigninPage_headline": {
+    "message": "Enter your password",
+    "description": "headline for signin page"
+  },
+  "OneTwoThreeDone_SigninPage_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin page"
+  },
+  "OneTwoThreeDone_SigninPage_primaryButtonText": {
+    "message": "Sign in",
+    "description": "primary button text for signin page"
+  },
+  "OneTwoThreeDone_SigninTokenCodePage_headline": {
+    "message": "Enter confirmation code",
+    "description": "headline for signin token code page"
+  },
+  "OneTwoThreeDone_SigninTokenCodePage_description": {
+    "message": "for your Mozilla account",
+    "description": "description for signin token code page"
+  },
+  "OneTwoThreeDone_SigninTokenCodePage_primaryButtonText": {
+    "message": "Continue",
+    "description": "primary button text for signin token code page"
+  },
+  "OneTwoThreeDone_SigninUnblockCodePage_headline": {
+    "message": "SigninUnblockCodePage",
+    "description": "headline for signin unblock code page"
+  },
+  "OneTwoThreeDone_SigninUnblockCodePage_description": {
+    "message": "Authorize this sign-in",
+    "description": "description for signin unblock code page"
+  },
+  "OneTwoThreeDone_SigninUnblockCodePage_primaryButtonText": {
+    "message": "Continue",
+    "description": "primary button text for signin unblock code page"
+  },
+  "OneTwoThreeDone_NewDeviceLoginEmail_subject": {
+    "message": "New device login",
+    "description": "subject for new device login email"
+  },
+  "OneTwoThreeDone_NewDeviceLoginEmail_headline": {
+    "message": "New device login",
+    "description": "headline for new device login email"
+  },
+  "OneTwoThreeDone_NewDeviceLoginEmail_description": {
+    "message": "New device login",
+    "description": "description for new device login email"
+  },
+  "OneTwoThreeDone_VerifyLoginCodeEmail_subject": {
+    "message": "Verify login code",
+    "description": "subject for verify login code email"
+  },
+  "OneTwoThreeDone_VerifyLoginCodeEmail_headline": {
+    "message": "Verify login code",
+    "description": "headline for verify login code email"
+  },
+  "OneTwoThreeDone_VerifyLoginCodeEmail_description": {
+    "message": "Verify login code",
+    "description": "description for verify login code email"
+  },
+  "OneTwoThreeDone_VerifyShortCodeEmail_subject": {
+    "message": "Confirmation code for 123Done",
+    "description": "subject for verify short code email"
+  },
+  "OneTwoThreeDone_VerifyShortCodeEmail_headline": {
+    "message": "Complete setup",
+    "description": "headline for verify short code email"
+  },
+  "OneTwoThreeDone_VerifyShortCodeEmail_description": {
+    "message": "Confirm your account to begin using 123Done",
+    "description": "description for verify short code email"
+  }
+}
