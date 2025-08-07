@@ -1,4 +1,4 @@
-# Generated on 2025-08-07T04:50:35.091Z
+# Generated on 2025-08-07T04:52:26.825Z
 
 # FTL file for CMS localization
 
@@ -12,13 +12,13 @@ desktopSyncFirefoxCms-shared-emailLogoAltText-96e4284e = Firefox logo
 
 desktopSyncFirefoxCms-EmailFirstPage-headline-33e9f42d = Continue to your Mozilla account
 
-desktopSyncFirefoxCms-EmailFirstPage-description-aac3076a = Sync your passwords, tabs, and bookmarks everywhere you use ⁨Firefox⁩.
+desktopSyncFirefoxCms-EmailFirstPage-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 
 desktopSyncFirefoxCms-EmailFirstPage-primaryButtonText-a20eb81e = Sign up or sign in
 
 desktopSyncFirefoxCms-SignupSetPasswordPage-headline-72786b8a = Create a password
 
-desktopSyncFirefoxCms-SignupSetPasswordPage-description-eced29bc = Sync your passwords, payment methods, bookmarks, and more everywhere you use ⁨Firefox⁩.
+desktopSyncFirefoxCms-SignupSetPasswordPage-description-201c6fe1 = Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
 
 desktopSyncFirefoxCms-SignupSetPasswordPage-primaryButtonText-42369faa = Create account
 
@@ -30,25 +30,25 @@ desktopSyncFirefoxCms-SignupConfirmCodePage-primaryButtonText-e4029ca4 = Start s
 
 desktopSyncFirefoxCms-SignupConfirmedSyncPage-headline-3ed2d228 = Sync is turned on
 
-desktopSyncFirefoxCms-SignupConfirmedSyncPage-description-18aff0d2 = Your passwords, payment methods, addresses, bookmarks, history, and more can sync everywhere you use ⁨Firefox⁩.
+desktopSyncFirefoxCms-SignupConfirmedSyncPage-description-2115ee89 = Your passwords, payment methods, addresses, bookmarks, history, and more can sync everywhere you use Firefox.
 
 desktopSyncFirefoxCms-SignupConfirmedSyncPage-primaryButtonText-598649e6 = Add another device
 
 desktopSyncFirefoxCms-SigninPage-headline-e8d28194 = Enter your password
 
-desktopSyncFirefoxCms-SigninPage-description-ca4b61b1 = for your ⁨Mozilla account⁩
+desktopSyncFirefoxCms-SigninPage-description-8286e168 = for your Mozilla account
 
 desktopSyncFirefoxCms-SigninPage-primaryButtonText-b6d4223e = Sign in
 
 desktopSyncFirefoxCms-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 
-desktopSyncFirefoxCms-SigninTokenCodePage-description-ca4b61b1 = for your ⁨Mozilla account⁩
+desktopSyncFirefoxCms-SigninTokenCodePage-description-8286e168 = for your Mozilla account
 
 desktopSyncFirefoxCms-SigninTokenCodePage-primaryButtonText-e4029ca4 = Start syncing
 
 desktopSyncFirefoxCms-SigninUnblockCodePage-headline-d076f12b = Enter confirmation code
 
-desktopSyncFirefoxCms-SigninUnblockCodePage-description-ca4b61b1 = for your ⁨Mozilla account⁩
+desktopSyncFirefoxCms-SigninUnblockCodePage-description-8286e168 = for your Mozilla account
 
 desktopSyncFirefoxCms-SigninUnblockCodePage-primaryButtonText-a0bfb8e5 = Continue
 
@@ -130,9 +130,9 @@ desktopSync-shared-emailFromName-763f7f1a = Firefox
 
 desktopSync-shared-emailLogoAltText-96e4284e = Firefox logo
 
-desktopSync-EmailFirstPage-headline-d4399885 = Continue to your ⁨Mozilla account⁩
+desktopSync-EmailFirstPage-headline-33e9f42d = Continue to your Mozilla account
 
-desktopSync-EmailFirstPage-description-aac3076a = Sync your passwords, tabs, and bookmarks everywhere you use ⁨Firefox⁩.
+desktopSync-EmailFirstPage-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 
 desktopSync-EmailFirstPage-primaryButtonText-44e2b9b7 = Get Started Today!!!
 
@@ -150,7 +150,7 @@ desktopSync-SignupConfirmCodePage-primaryButtonText-6b862186 = Confirm Email
 
 desktopSync-SignupConfirmedSyncPage-headline-068241d3 = You are syncing Firefox
 
-desktopSync-SignupConfirmedSyncPage-description-926ccc75 = Your passwords, addresses, bookmarks, history, and more can sync everywhere you use ⁨Firefox⁩...
+desktopSync-SignupConfirmedSyncPage-description-80ddaf0e = Your passwords, addresses, bookmarks, history, and more can sync everywhere you use Firefox...
 
 desktopSync-SignupConfirmedSyncPage-primaryButtonText-49477717 = The next thing
 
