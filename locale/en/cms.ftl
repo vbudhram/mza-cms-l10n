@@ -1,4 +1,4 @@
-# Generated on 2025-08-07T04:32:34.368Z
+# Generated on 2025-08-07T04:34:54.814Z
 # FTL file for CMS localization
 
 desktopSyncFirefoxCms-shared.logoAltText-0247f558 = "Firefox logo123"
