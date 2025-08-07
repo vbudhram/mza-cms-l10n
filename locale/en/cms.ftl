@@ -1,4 +1,4 @@
-# Generated on 2025-08-07T04:45:21.378Z
+# Generated on 2025-08-07T04:50:35.091Z
 
 # FTL file for CMS localization
 
@@ -22,7 +22,7 @@ desktopSyncFirefoxCms-SignupSetPasswordPage-description-eced29bc = Sync your pas
 
 desktopSyncFirefoxCms-SignupSetPasswordPage-primaryButtonText-42369faa = Create account
 
-desktopSyncFirefoxCms-SignupConfirmCodePage-headline-dca46c64 = Enter confirmation code 
+desktopSyncFirefoxCms-SignupConfirmCodePage-headline-d076f12b = Enter confirmation code
 
 desktopSyncFirefoxCms-SignupConfirmCodePage-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
 
@@ -34,7 +34,7 @@ desktopSyncFirefoxCms-SignupConfirmedSyncPage-description-18aff0d2 = Your passwo
 
 desktopSyncFirefoxCms-SignupConfirmedSyncPage-primaryButtonText-598649e6 = Add another device
 
-desktopSyncFirefoxCms-SigninPage-headline-f2f1d554 = Enter your password 
+desktopSyncFirefoxCms-SigninPage-headline-e8d28194 = Enter your password
 
 desktopSyncFirefoxCms-SigninPage-description-ca4b61b1 = for your ⁨Mozilla account⁩
 
@@ -154,7 +154,7 @@ desktopSync-SignupConfirmedSyncPage-description-926ccc75 = Your passwords, addre
 
 desktopSync-SignupConfirmedSyncPage-primaryButtonText-49477717 = The next thing
 
-desktopSync-SigninPage-headline-f2f1d554 = Enter your password 
+desktopSync-SigninPage-headline-e8d28194 = Enter your password
 
 desktopSync-SigninPage-description-673ee3c7 = to log into Firefox and start syncing.
 
