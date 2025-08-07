@@ -1,7 +1,7 @@
-# Generated on 2025-08-07T16:25:45.494Z
+# Generated on 2025-08-07T16:29:17.170Z
 # FTL file for CMS localization
 
-# desktopSync - Desktop Sync - fxa_avatar_menuuuuuu
+# desktopSync - Desktop Sync - fxa_avatar_menuuuuuu123
 # Description for Email First Page
 desktopSync-EmailFirstPage-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 # Headline for Email First Page
